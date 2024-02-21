@@ -17,7 +17,8 @@ public class Assignment {
 		i/=j;
 		System.out.println("The value of i:"+i);
 		
-		
+		i%=j;
+		System.out.println("The value of i:"+i);
 
 	}
 
